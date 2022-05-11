@@ -1,7 +1,7 @@
 piVersion: apps/v1
 kind: Deployment
 metadata:
-name: gke-app
+  name: gke-app
 spec:
 replicas: 1
 selector:
